@@ -10,6 +10,9 @@ export default {
       'whitesmoke': '#f5f5f5',
       'living-coral': '#fe6f61'
     },
+    borderRadius: {
+      DEFAULT: '1rem'
+    },
     extend: {},
   },
   plugins: [],
