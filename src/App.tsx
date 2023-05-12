@@ -9,9 +9,9 @@ function App() {
     <div className="w-full h-screen flex flex-row justify-center items-center bg-pastel-black text-whitesmoke">
       <PopOver name="oh" buttonClass="bg-living-coral text-whitesmoke">
         <div className="text-center bg-whitesmoke rounded">
-          <a className={`${BUTTON_CLASS} rounded-t`} href="#">a</a>
-          <a className={`${BUTTON_CLASS}`} href="#">b</a>
-          <a className={`${BUTTON_CLASS} rounded-b`} href="#">c</a>
+          <a className={`${BUTTON_CLASS} rounded-t`} href="#">hi</a>
+          <a className={`${BUTTON_CLASS}`} href="#">hello</a>
+          <a className={`${BUTTON_CLASS} rounded-b`} href="#">bye!</a>
         </div>
       </PopOver>
     </div>
